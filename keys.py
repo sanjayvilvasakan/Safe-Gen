@@ -6,7 +6,7 @@ reciever_no = '+918608526490'
 
 # SMTP 
 Sender_Email ='safegenalerts@gmail.com'
-Receiver_Email = 'sumankanthkodiazhagn@gmail.com'
+Receiver_Email = 'sanjay040611@gmail.com'
 Subject = 'Alert From S.A.F.E.G.E.N'
 Message = 'Fire Detected!'
 
