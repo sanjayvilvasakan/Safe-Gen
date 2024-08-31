@@ -31,7 +31,7 @@ def sms():
 
 def email():
     sender_email = "safegenalerts@gmail.com"
-    receiver_email = "sumankanthkodiazhagan@gmail.com"
+    receiver_email = "sanjay040611@gmail.com"
     subject = "Alert! From S.A.F.E.G.E.N"
     message_body = "Fire has been detected in Camera 1. Please take necessary action."
     
