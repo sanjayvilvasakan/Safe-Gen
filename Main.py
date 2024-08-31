@@ -20,7 +20,7 @@ def parse_arguments() -> argparse.Namespace:
     args = parser.parse_args()
     return args
 
-#def sms():
+def sms():
     client = Client(keys.account_sid, keys.auth_token)
     message = client.messages.create(
     body = "Alert! From S.A.F.E.G.E.N. Fire has been detected in Camera 1. Please take necessary action. ",
