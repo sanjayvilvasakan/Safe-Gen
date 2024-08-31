@@ -6,7 +6,7 @@ from email.mime.image import MIMEImage
 
 # Email configuration
 sender_email = "safegenalerts@gmail.com" # Sender's Email ID
-receiver_email = "sumankanthkodiazhagan@gmail.com" # Reciever's Email ID
+receiver_email = "sanjay040611@gmail.com" # Reciever's Email ID
 subject = "Alert! From S.A.F.E.G.E.N"
 message_body = "Fire has been detected in Camera 1. Please take necessary action."
 
